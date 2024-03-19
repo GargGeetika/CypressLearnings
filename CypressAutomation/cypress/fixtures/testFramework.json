@@ -1,0 +1,7 @@
+{
+    "name":"Medusa",
+    "email":"test@testmail.com",
+    "pwd":"ha ha ha",
+    "gender":"Female",
+    "productName":["iphone X","Samsung Note 8","Nokia Edge","Blackberry"]
+}
